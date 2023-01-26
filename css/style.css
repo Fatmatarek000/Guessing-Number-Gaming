@@ -1,0 +1,85 @@
+*
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.name-game
+{
+    color: #8C2A8E;
+}
+
+.card
+{
+    background-color: #FAFAFA;
+    position: relative;
+    height: 293px;
+width: 589p;
+
+border-radius: 12px;
+
+   
+}
+input
+{
+    height: 35px;
+width: 278px;
+left: 317px;
+top: 283px;
+
+border: 1px solid #DBDBDB;
+
+}
+input:focus
+{
+    outline: #8C2A8E;
+    border: 2px solid #8C2A8E;
+}
+button
+{
+height: 47px;
+width: 278px;
+left: 317px;
+top: 328px;
+border-radius: 23px;
+background-color: #8C2A8E;
+color: #FAFAFA;
+border: none;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.try-num
+{
+    background-color: #fff;
+    color: #8C2A8E;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border: 1px solid #DBDBDB;
+   
+}
+.Remaining
+{
+    color: #8C2A8E;
+    position: absolute;
+    left: 0;
+    bottom: 0px;
+    padding-left:10px ;
+    text-align: center;
+
+
+}
+#header
+{
+    background-color:#EBD6EC ;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    border-radius: 8px;
+    color: #8C2A8E;
+    font-size: large;
+    font-weight: bold;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
